@@ -1,0 +1,21 @@
+Krystal Heart M. Bacalso
+CS3A
+
+1. What challenges did you face during this activity?
+    The challenge I faced during this activity is the process of making a file using cmd.
+    I know that I could just manually make the file, but I also wanted to learn how to make a
+    txt file using cmd. I learned that there were many ways to actually make a file and I specifically
+    used the 'code . ' method since it instantly opens VSCode. But I think other than that, everything
+    was easy and understandable since I have prior knowledge on how to use Git.
+
+2. Which Git command was the most confusing?
+    If talking about this specific activity, there wasn't really any Git command that I found confusing
+    since the commands used are mostly straight forward and easy to undersand. But I still have a lot 
+    to learn about a more in-depth use of Git. I still find pull request and things like that hard, since
+    I don't have a lot of opportunities to really utilize it, or rather — how to utilize it. Albeit, I know
+    it's an important skill to learn, so I'll try to work on that.
+
+3. How can version control help in real-world software development?
+    Verison Control is extremely useful in real-world software development, since it basically adds as your
+    development logs/documentation by tracking changes, and can act as your backup, being able to return to a 
+    previous version of your current project, saving yourself from a bad code push.
